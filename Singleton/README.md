@@ -1,7 +1,6 @@
-# Markdown
 
 ## Pattern Name and Classification
-  ###### TemplateMethod
+  ###### Singleton
   - É um padrão estrutural.
 ## Intent
  Modificar a estrutura de um objeto.
